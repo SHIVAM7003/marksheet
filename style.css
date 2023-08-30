@@ -1,0 +1,32 @@
+.container {
+    height: 900px;
+    background: linear-gradient(to right, #b3e5fc , #ffccbc, #c8e6c9);
+	  border: solid red 1.5px;
+	  color: black;
+	  font-family: Typewriter, "Times New Roman", Times, serif;
+	  font-size: 17px;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  
+  table {
+    margin: 0 auto;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  th {
+    text-align: center;
+  }
+  
+  .total {
+    text-align: right;
+  }
